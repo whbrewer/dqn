@@ -2,7 +2,7 @@ Author: Wes Brewer <wes@computational.io>
 
 ## Introduction
 
-This code solves the Unity ML-Agents Banana Collector environment. In this environment, there are four possible actions:
+This code solves the Unity ML-Agents Banana Collector environment using a deep Q-network reinforcement algorithm implemented using PyTorch. In the Bananas environment, there are four possible actions:
 
 * 0 - walk forward
 * 1 - walk backward
